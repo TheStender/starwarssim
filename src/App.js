@@ -6,6 +6,7 @@ function App() {
     <div className='App'>
       <header className='App-header'>
         <p>STAR WARS SIM!</p>
+        <p>Simming!</p>
       </header>
     </div>
   );
